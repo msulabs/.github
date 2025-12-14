@@ -6,7 +6,6 @@
 
 [![Substack](https://img.shields.io/badge/Substack-msulabs-orange?logo=substack)](https://msulabs.substack.com)
 [![Twitter](https://img.shields.io/badge/Twitter-@msulabs-blue?logo=twitter)](https://twitter.com/msulabs)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-msulabs-blue?logo=linkedin)](https://linkedin.com/company/msulabs)
 
 </div>
 
