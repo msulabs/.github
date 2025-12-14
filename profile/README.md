@@ -46,7 +46,7 @@ Infrastructure and utilities for AI/ML workflows. Tools are determined by real n
 ## Get in Touch 💬
 
 - 📰 **Substack**: [msulabs.substack.com](https://msulabs.substack.com)
-- 🐦 **Twitter/X**: [@msulabs](https://twitter.com/mmsulab)
+- 🐦 **Twitter/X**: [@msulabs](https://twitter.com/msulabs)
 
 ---
 
