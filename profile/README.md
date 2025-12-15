@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**Research, Build, Ship** — AI/ML infrastructure & Bittensor mining experiments
+**Research, Build, Ship** — AI/ML, Data, Trading tools & Bittensor mining
 
 [![Substack](https://img.shields.io/badge/Substack-msulabs-orange?logo=substack)](https://msulabs.substack.com)
 [![Twitter](https://img.shields.io/badge/Twitter-@msulabs-blue?logo=twitter)](https://twitter.com/msulabs)
