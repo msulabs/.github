@@ -31,14 +31,14 @@ What we build, we open source. First releases: 2026.
 
 ## Focus Areas 🎯
 
+| Area | What |
 |------|------|
-| **Bittensor Mining** | Prediction & AI & Trading subnets |
+| **Bittensor Mining** | Prediction, AI & Trading subnets |
 | **Trading Tools** | Execution, analytics, automation |
 | **Time Series** | Forecasting models & evaluation |
 | **AI Infrastructure** | Serving, benchmarking, tooling |
 | **Research** | Experiments documented publicly |
 
----
 
 ## Get in Touch 💬
 
