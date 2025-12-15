@@ -51,6 +51,6 @@ Infrastructure and utilities for AI/ML workflows. Tools are determined by real n
 
 <div align="center">
 
-*Built with curiosity. Measured with metrics. Shared with care.*
+*Built with curiosity. Measured with metrics. *
 
 </div>
