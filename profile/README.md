@@ -25,19 +25,17 @@ Research notes on Bittensor mining — experiments, insights, and learnings. Biw
 
 ### 🛠️ Open Source Tools
 
-Infrastructure and utilities for AI/ML workflows. Tools are determined by real needs from our research.
-
-*Coming in 2026*
+What we build, we open source. First releases: 2026.
 
 ---
 
 ## Focus Areas 🎯
 
-| Area | What |
 |------|------|
-| **Bittensor Mining** | Prediction & AI subnets |
+| **Bittensor Mining** | Prediction & AI & Trading subnets |
+| **Trading Tools** | Execution, analytics, automation |
 | **Time Series** | Forecasting models & evaluation |
-| **ML Infrastructure** | Serving, benchmarking, tooling |
+| **AI Infrastructure** | Serving, benchmarking, tooling |
 | **Research** | Experiments documented publicly |
 
 ---
