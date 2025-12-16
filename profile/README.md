@@ -17,7 +17,6 @@
 
 Research notes on Bittensor mining — experiments, insights, and learnings. Biweekly deep-dives into prediction & AI subnets.
 
-- **Format**: Research Journal
 - **What we share**: Hypotheses, experiments, directional results, learnings
 - **What we don't share**: Production strategies, absolute numbers
 
