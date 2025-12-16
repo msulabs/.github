@@ -13,7 +13,7 @@
 
 ## What We're Building 🔬
 
-### 📝 Hitchhiker's Guide to Bittensor Mining
+### 📝 the Hitchhiker's Guide to Bittensor Mining
 
 Research notes on Bittensor mining — experiments, insights, and learnings. Biweekly deep-dives into prediction & AI subnets.
 
