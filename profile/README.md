@@ -15,7 +15,7 @@
 
 ### 📝 the Hitchhiker's Guide to Bittensor Mining
 
-Research notes on Bittensor mining — experiments, insights, and learnings. Biweekly deep-dives into prediction & AI subnets.
+Research notes on Bittensor mining — experiments, insights, and learnings. Biweekly deep-dives into forecasting & AI & Training & Agents subnets.
 
 - **What we share**: Hypotheses, experiments, directional results, learnings
 - **What we don't share**: Production strategies, absolute numbers
