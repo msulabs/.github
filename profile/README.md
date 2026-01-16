@@ -35,7 +35,7 @@ What we build, we open source. First releases: 2026.
 | **Bittensor Mining** | Prediction, AI & Trading subnets |
 | **Trading Tools** | Execution, analytics, automation |
 | **Time Series** | Forecasting models & evaluation |
-| **AI Infrastructure** | Serving, benchmarking, tooling |
+| **Data & AI Infrastructure** | Serving, benchmarking, tooling |
 | **Research** | Experiments documented publicly |
 
 
