@@ -1,4 +1,4 @@
-# Welcome to MsuLabs 👋
+# Welcome to MsuLabs - AI-Native Crypto Labs
 
 <div align="center">
 
