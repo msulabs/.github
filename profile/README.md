@@ -11,12 +11,6 @@
 
 ---
 
-## What We're Building 🔬
-
-What we build, we open source. First releases: 2026.
-
----
-
 ## Focus Areas 🎯
 
 | Area | What |
