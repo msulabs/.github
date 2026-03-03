@@ -1,4 +1,4 @@
-# Welcome to MsuLabs -- 
+# Welcome to MsuLabs 
 
 <div align="center">
 
