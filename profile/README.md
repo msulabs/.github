@@ -1,8 +1,7 @@
-# Welcome to MsuLabs 
+# Welcome to MsuLabs  ||  AI-Native Labs
 
 <div align="center">
 
-## AI-Native Labs
 **Research, Build, Ship** — AI/ML/LLM, Data, Trading tools
 
 [![Substack](https://img.shields.io/badge/Substack-msulabs-orange?logo=substack)](https://msulabs.substack.com)
