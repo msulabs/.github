@@ -14,8 +14,10 @@
 
 | Area | What |
 |------|------|
-| **Trading Tools** | Execution, analytics, automation |
+| **Trading Tools** | Execution, analytics, agents |
 | **Data & AI Infrastructure** | Serving, benchmarking, tooling |
+| **Agentic Commerce** | Agentic payment|
+
 
 
 ## Get in Touch 💬
