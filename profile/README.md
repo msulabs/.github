@@ -16,7 +16,6 @@
 |------|------|
 | **Trading Tools** | Execution, analytics, agents |
 | **Data & AI Infrastructure** | Serving, benchmarking, tooling |
-| **Agentic Commerce** | Agentic payment|
 
 
 
